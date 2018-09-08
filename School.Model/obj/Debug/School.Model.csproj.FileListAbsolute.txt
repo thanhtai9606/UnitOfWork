@@ -1,0 +1,8 @@
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Model\bin\Debug\School.Model.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Model\bin\Debug\School.Model.pdb
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Model\bin\Debug\EntityFramework.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Model\bin\Debug\EntityFramework.xml
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Model\obj\Debug\School.Model.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Model\obj\Debug\School.Model.pdb

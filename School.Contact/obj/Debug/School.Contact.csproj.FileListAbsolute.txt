@@ -1,0 +1,9 @@
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Contact\obj\Debug\School.Contact.csprojResolveAssemblyReference.cache
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Contact\bin\Debug\School.Contact.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Contact\bin\Debug\School.Contact.pdb
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Contact\bin\Debug\School.Model.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Contact\bin\Debug\School.Util.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Contact\bin\Debug\School.Model.pdb
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Contact\bin\Debug\School.Util.pdb
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Contact\obj\Debug\School.Contact.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.Contact\obj\Debug\School.Contact.pdb

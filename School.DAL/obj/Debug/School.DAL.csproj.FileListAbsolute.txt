@@ -1,0 +1,4 @@
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.DAL\bin\Debug\School.DAL.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.DAL\bin\Debug\School.DAL.pdb
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.DAL\obj\Debug\School.DAL.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.DAL\obj\Debug\School.DAL.pdb

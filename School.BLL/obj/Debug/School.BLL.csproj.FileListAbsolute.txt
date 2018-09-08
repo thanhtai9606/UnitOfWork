@@ -1,0 +1,16 @@
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\obj\Debug\School.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\School.BLL.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\School.BLL.pdb
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\log4net.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\School.Contact.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\School.Model.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\School.Util.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\School.Contact.pdb
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\School.Model.pdb
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\School.Util.pdb
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\obj\Debug\School.BLL.dll
+C:\Users\ltdung\Documents\Visual Studio 2013\Projects\AbSchool\School.BLL\obj\Debug\School.BLL.pdb
